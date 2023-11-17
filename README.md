@@ -24,9 +24,8 @@ This project is a landing page for Sunnyside, showcasing their design and market
 ## Technologies Used
 
 - HTML5
-- CSS3 (Sass)
+- CSS3 
 - JavaScript (ES6+)
-- [GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/)
 - [Font Awesome](https://fontawesome.com/) (icons)
 - Responsive design principles
 
